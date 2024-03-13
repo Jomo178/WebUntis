@@ -1,0 +1,15 @@
+{
+    "CALENDARID": "",
+    "COLORS": {
+        "EXAM": "5",
+        "STANDARD": "8",
+        "ADDITIONAL": "7",
+        "ROOMSUBSTITUTION": "8"
+    },
+    "WEEKCOUNT": 2,
+    "SCHOOL_WEBUNTIS": "",
+    "USERNAME_WEBUNTIS": "",
+    "PASSWORD_WEBUNTIS": "",
+    "DOMAIN_WEBUNTIS": "",
+    "API_KEY": ""
+}
